@@ -3,7 +3,7 @@
 #include "4bitcode.h"
 #include "i2c_eeprom.h"
 
-#define SW1_PIN 14
+#define SW1_PIN 14 //insted of IR sensors used switch
 #define SW2_PIN 15
 #define LED_PIN (1 << 17)
 
